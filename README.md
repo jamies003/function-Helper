@@ -5,3 +5,4 @@ Additional Functions
 String Return 
 Alphanumeric
 Random numbers
+Query
