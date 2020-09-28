@@ -6,3 +6,6 @@ String Return
 Alphanumeric
 Random numbers
 Query
+String Return
+Anagrams
+Same Array
