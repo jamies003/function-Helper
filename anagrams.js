@@ -1,4 +1,4 @@
-// Given two strings, write a function to determine if the seconfd string is an anagram of the first using Cinema/IceMan
+// Given two strings, write a function to determine if the second string is an anagram of the first using Cinema/IceMan
 
 function anagram(str1, str2) {
   if (str1.length !== str2.length) {

@@ -9,3 +9,6 @@ Query
 String Return
 Anagrams
 Same Array
+Anagrams
+SumZero
+CountUniqueValues
