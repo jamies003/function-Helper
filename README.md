@@ -12,3 +12,5 @@ Same Array
 Anagrams
 SumZero
 CountUniqueValues
+maxSubArray(Use Sliding Window concept)
+Linear Search
